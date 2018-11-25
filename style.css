@@ -1,0 +1,30 @@
+body{
+	background: #003f56;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+#nome{
+	font-size: 1.5em;
+	font-family: "Verdana", Helvetica, sans-serif;
+	text-align: center;
+	border-radius: 5px;
+	width: 200%;
+	padding: 20%;
+	background-color: aqua;
+}
+
+a {
+	text-decoration: none;	
+}
+
+a:link, a:visited {
+	color: #003f56;
+}
+
+a:hover {
+	color: aqua;
+	background: #003f56;
+	border-radius: 5px;
+}
